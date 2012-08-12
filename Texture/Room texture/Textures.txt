@@ -1,0 +1,2 @@
+texture [Floor1] BFloor, 128, 128 (generic textures)
+texture [ceiling1] Tceilin, 400, 480 (generic textures)

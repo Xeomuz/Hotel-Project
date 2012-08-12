@@ -1,0 +1,52 @@
+texture Wall4 ,3 ,400
+{
+   XScale 2.0
+   YScale 2.0
+   Patch WALL3, 0, 0
+}
+
+texture ALADDER2, 72, 256
+{
+   XScale 1.0
+   YScale 1.0
+   Patch RW45_1, 0, 0
+   {
+      rotate 90
+   }
+   Patch RW45_1, 0, 64
+   {
+      rotate 90
+   }
+   Patch RW45_1, 0, 128
+   {
+      rotate 90
+   }
+   Patch RW45_1, 0, 172
+   {
+      rotate 90
+   }
+}
+
+texture Wall5 ,3 ,400
+{
+   XScale 1.0
+   YScale 1.0
+   Patch Wall3, 0, 0
+   {
+      rotate 90
+   }
+   Patch Wall3, 0, 64
+   {
+      rotate 90
+   }
+   Patch Wall3, 0, 128
+   {
+      rotate 90
+   }
+   Patch Wall3, 0, 172
+   {
+      rotate 90
+   }
+}
+
+

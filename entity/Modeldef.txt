@@ -1,0 +1,25 @@
+Model crouch
+{
+   Path "Models"
+   Model 0 "crouch.md3"
+   Skin 0 "crouch.png"
+
+Scale 1.3 1.3 1.3 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+
+
+
+
+
+
+
+
+}
+
+
+

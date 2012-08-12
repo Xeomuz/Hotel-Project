@@ -1,0 +1,104 @@
+Model Tpaper
+{
+   Path "Models"
+   Model 0 "Tpaper.md2"
+   Skin 0 "Tpaper.jpg"
+
+Scale 1.0 1.0 1.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+
+}
+Model couch
+{
+   Path "Models"
+   Model 0 "couch.md3"
+   Skin 0 "couch.jpg"
+
+Scale 10.0 10.0 10.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+
+}
+
+Model blamp
+{
+   Path "Models"
+   Model 0 "lamp.md3"
+   Skin 0 "lamp.jpg"
+
+Scale 25.0 25.0 25.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+}
+
+Model shower
+{
+   Path "Models"
+   Model 0 "shower.md3"
+   Skin 0 "shower.jpg"
+
+Scale -7.0 7.0 7.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+}
+
+Model chair
+{
+   Path "Models"
+   Model 0 "chair.md3"
+   Skin 0 "chair.jpg"
+
+Scale 25.0 25.0 30.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+}
+
+Model rack
+{
+   Path "Models"
+   Model 0 "rack.md3"
+   Skin 0 "rack.jpg"
+
+Scale 20.0 20.0 20.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+}
+
+Model toilet
+{
+   Path "Models"
+   Model 0 "toilet.md2"
+   Skin 0 "toilet.jpg"
+
+Scale 1.5 1.5 1.5 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+}
+
+Model sink
+{
+   Path "Models"
+   Model 0 "sink.md2"
+   Skin 0 "sink.jpg"
+
+Scale 2.0 2.0 2.0 
+NOINTERPOLATION
+IGNORETRANSLATION 
+
+FrameIndex PLAY ABCDEFGHIJKLMNOPQRSTUVW 0 0
+}
