@@ -1,0 +1,24 @@
+# Blender3D MTL File: BATH2.blend
+# Material Count: 2
+newmtl material_101_eab3b047.png
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd eab3b047.png
+
+
+newmtl material_101
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.480000 0.480000 0.480000
+Ks 0.450000 0.450000 0.450000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 1ae91e96.png
+
+
